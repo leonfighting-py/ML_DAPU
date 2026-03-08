@@ -1,0 +1,9 @@
+﻿Scheme,Basis,Component,MW_g_per_mol,Moles_mmol,Mass_g
+参考家族等比例版,PTMG soft segment = 10 mmol,PTMG-2000,2000.0,10.0,20.0
+参考家族等比例版,PTMG soft segment = 10 mmol,MDI,250.25,20.0,5.005
+参考家族等比例版,PTMG soft segment = 10 mmol,KA,97.12,20.0,1.9424
+参考家族等比例版,PTMG soft segment = 10 mmol,BMI,358.35,5.0,1.79175
+推荐优化版（配方2）,PTMG soft segment = 10 mmol,PTMG-2000,2000.0,10.0,20.0
+推荐优化版（配方2）,PTMG soft segment = 10 mmol,MDI,250.25,20.0,5.005
+推荐优化版（配方2）,PTMG soft segment = 10 mmol,KA,97.12,18.0,1.74816
+推荐优化版（配方2）,PTMG soft segment = 10 mmol,BMI,358.35,6.0,2.1501

@@ -1,0 +1,4 @@
+﻿Target,Subset,Model,R2,RMSE,Samples,Feature_Count,Best_Params,Route
+elongation,CurrentFull84,XGBoost,0.6729664824639223,154.1987320637393,84,15,"{'colsample_bytree': 0.8, 'learning_rate': 0.05, 'max_depth': 4, 'n_estimators': 300, 'reg_alpha': 1.0, 'reg_lambda': 5.0, 'subsample': 0.6}",StrictGridSearch+LOOCV
+healing_eff,AlignedOld37,SVR,0.825575009122699,5.043227220232817,37,17,"{'svr__C': 300, 'svr__epsilon': 0.01, 'svr__gamma': 0.01}",StrictGridSearch+LOOCV
+tensile_strength,CurrentFull84,SVR,0.7581440266735666,6.6132024945673376,84,15,"{'svr__C': 100, 'svr__epsilon': 0.01, 'svr__gamma': 0.01}",StrictGridSearch+LOOCV
