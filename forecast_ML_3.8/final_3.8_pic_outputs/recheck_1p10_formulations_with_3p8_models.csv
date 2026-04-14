@@ -1,3 +1,0 @@
-﻿Formula_Label,Source_Cell,Source_Note,pred_tensile_strength,best_model_tensile_strength,pred_elongation,best_model_elongation,pred_healing_eff,best_model_healing_eff,old_pred_tensile_strength,old_pred_elongation,old_pred_healing_eff,delta_tensile_strength,delta_elongation,delta_healing_eff
-Formulation 1,"1.10 配方重预测（PCL/糠醇, 主链）",按 1.10 单元格源码直接迁移。,22.60819353194662,SVR,446.848388671875,XGBoost,92.49016242234856,SVR,15.63,458.66,87.43,6.9781935319466175,-11.811611328125025,5.060162422348554
-Formulation 2,"1.10 新图配方自动换算并预测（PCL-糠胺, 主链）",源码给出 BMI=3.58 g（约 10 mmol）；但 1.10 历史输出曾按 15 mmol 修正到约 5.375 g，此处先按源码值。,21.332247404297227,SVR,564.6075439453125,XGBoost,89.0957060696421,SVR,15.84,396.5,94.75,5.492247404297228,168.1075439453125,-5.654293930357895
